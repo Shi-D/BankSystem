@@ -1,4 +1,4 @@
-# bankSystem-master
+# bankSystem
  
 **Author: Yd Shi**
 
@@ -17,11 +17,11 @@
 ---------------
 https://github.com/kraiz/django-crontab
 
-pip install django-crontab
+pip3 install django-crontab
 
 
  ***汇率接口解决方案***
 ---------------
 https://django-money-rates.readthedocs.io/
 
-pip install django-money-rates
+pip3 install django-money-rates
